@@ -1,9 +1,11 @@
 # Rekrutmen Asisten Lab Programming Angkatan 2014
+Ahmad Fajar Prasetiyo / 13514053
 
 ## Eksplorasi 1
 * Rilis: 3 Mei 2016
 * Deadline: 22 Mei 2016
 * Deliverables: Resume topik yang Anda explore
+* Nama File: [Node JS.md](https://github.com/afp260695/rekrutmen-labpro/blob/master/Eksplorasi%201/Node%20JS.md)
 
 Eksplorasi github dan Node JS. Eksplorasi 1 membuat resume tentang Node JS. Resume berisi Filosofi, Kelebihan, Kekurangan, Struktur, dan Contoh Penggunaan Node JS. Resume berada pada folder Eksplorasi 1.
 
